@@ -1,0 +1,1 @@
+# BrightLearn-Exercise-2-SQL-Aggregates-and-Operators
